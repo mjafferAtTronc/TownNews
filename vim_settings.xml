@@ -14,11 +14,11 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/__init__.py" timestamp="1535089500493">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/__init__.py" timestamp="1535091643707">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -63,7 +63,7 @@
         <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>configparser</text>
+        <text>IOError</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -93,7 +93,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>configparser</text>
+        <text>IOError</text>
       </register>
     </registers>
     <search>

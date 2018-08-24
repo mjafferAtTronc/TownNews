@@ -65,11 +65,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535116792403">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="36" column="47" />
-        <mark key="^" line="36" column="47" />
-        <mark key="." line="36" column="47" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535120827227">
+        <mark key="'" line="71" column="24" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -77,37 +78,39 @@
       <jump line="1" column="8" filename="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" />
       <jump line="23" column="86" filename="$USER_HOME$/PycharmProjects/TownNews/app.py" />
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/flaskr/app/db.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" />
+      <jump line="71" column="24" filename="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -125,6 +128,7 @@
       <history-cmd>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

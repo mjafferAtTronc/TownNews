@@ -65,11 +65,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535114156430">
-        <mark key="[" line="8" column="52" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535116792403">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="36" column="47" />
+        <mark key="^" line="36" column="47" />
+        <mark key="." line="36" column="47" />
       </file>
     </filemarks>
     <jumps>

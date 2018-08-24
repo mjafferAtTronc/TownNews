@@ -14,11 +14,11 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/__init__.py" timestamp="1535103113628">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/__init__.py" timestamp="1535114241695">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -65,6 +65,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535114156430">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" />
@@ -74,40 +80,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>b.initp(appdb.init_app(app)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjY2k6el9tZXNzYWdlIG5hbWU9InpfbWVzc2FnZSIgY2xhc3M9ImVsZW1lbnQiIGRpc3BsYXluYW1lPSJ6X21lc3NhZ2UiPlRha2VuIGZvciBQcmludCBvbiAyMDE4LTA1LTIyIDEyOjA0IFBNIENEVDwvY2NpOnpfbWVzc2FnZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>b.initp(appdb.init_app(app)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

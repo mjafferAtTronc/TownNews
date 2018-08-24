@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1535038373984">
+      <file name="/Dummy.txt" timestamp="1535089095464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -13,6 +13,12 @@
         <mark key="]" line="44" column="31" />
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/__init__.py" timestamp="1535089500493">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -98,6 +104,7 @@
       <history-search />
       <history-cmd>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

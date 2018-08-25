@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="29" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1535103461023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -65,12 +72,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535120827227">
-        <mark key="'" line="71" column="24" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535180003083">
+        <mark key="'" line="86" column="23" />
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="28" />
+        <mark key="^" line="85" column="28" />
+        <mark key="." line="85" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -80,6 +87,9 @@
       <jump line="17" column="20" filename="$USER_HOME$/PycharmProjects/flaskr/app/db.py" />
       <jump line="26" column="0" filename="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" />
       <jump line="71" column="24" filename="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" />
+      <jump line="86" column="23" filename="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" />
+      <jump line="4" column="16" filename="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -88,35 +98,35 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>(**kwargs)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnSGVsbG8gV29ybGQhJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Title</text>
       </register>
     </registers>
     <search>
@@ -143,6 +153,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

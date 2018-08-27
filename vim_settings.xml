@@ -21,10 +21,11 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/auth/register.html" timestamp="1535392381144">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/auth/register.html" timestamp="1535393938117">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1534557640958">
         <mark key="[" line="20" column="0" />

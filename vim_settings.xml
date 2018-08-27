@@ -63,11 +63,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535087820438">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="31" />
-        <mark key="." line="44" column="31" />
-        <mark key="^" line="44" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535405553111">
+        <mark key="[" line="11" column="78" />
+        <mark key="]" line="11" column="84" />
+        <mark key="." line="11" column="84" />
+        <mark key="^" line="11" column="84" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -118,8 +118,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>revision</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -149,7 +149,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Register</text>
+        <text>revision</text>
       </register>
     </registers>
     <search>

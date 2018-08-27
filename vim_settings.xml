@@ -63,11 +63,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535405553111">
-        <mark key="[" line="11" column="78" />
-        <mark key="]" line="11" column="84" />
-        <mark key="." line="11" column="84" />
-        <mark key="^" line="11" column="84" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535409903157">
+        <mark key="'" line="11" column="112" />
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -113,13 +114,20 @@
       <jump line="86" column="23" filename="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" />
       <jump line="4" column="16" filename="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" />
+      <jump line="11" column="112" filename="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>Barcelona.jpg</text>
+      </register>
+      <register name="-" type="4">
+        <text>Barcelona.jpg</text>
+      </register>
+      <register name="/" type="4">
+        <text>NGStory</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>revision</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -148,20 +156,24 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>revision</text>
-      </register>
     </registers>
     <search>
+      <last-search>NGStory</last-search>
+      <last-pattern>NGStory</last-pattern>
+      <last-replace>Story</last-replace>
+      <last-substitute>NGStory</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>NGStory</entry>
+      </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>we</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL05HU3RvcnkvU3Rvcnkv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

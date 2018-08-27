@@ -3,43 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="4" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="29" column="4" />
-      </file>
       <file name="/Dummy.txt" timestamp="1535103461023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535087820438">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="31" />
-        <mark key="." line="44" column="31" />
-        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/__init__.py" timestamp="1535114241695">
         <mark key="[" line="24" column="20" />
         <mark key="]" line="27" column="33" />
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app.py" timestamp="1535088653957">
-        <mark key="'" line="22" column="86" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-        <mark key="^" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/db.py" timestamp="1535103005296">
         <mark key="'" line="17" column="20" />
@@ -48,11 +21,10 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1535088532933">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/auth/register.html" timestamp="1535392381144">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1534557640958">
         <mark key="[" line="20" column="0" />
@@ -71,6 +43,39 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535087820438">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app.py" timestamp="1535088653957">
+        <mark key="'" line="22" column="86" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1535088532933">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535180003083">
         <mark key="'" line="86" column="23" />
@@ -92,35 +97,35 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" />
     </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>(**kwargs)</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9hcHAuY29uZmlnWydEQVRBQkFTRSddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcGFyYW1zID0gZ2V0X3BhcmFtcygnLi9jb25maWcvc2l0ZS5pbmknLCAnZ2V0Jylqampqago=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

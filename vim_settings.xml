@@ -93,11 +93,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1535485699039">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="31" />
-        <mark key="^" line="29" column="31" />
-        <mark key="." line="29" column="31" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1535486621302">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="61" column="57" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="62" column="27" />
+        <mark key="." line="62" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1535088532933">
         <mark key="[" line="0" column="7" />
@@ -105,10 +106,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" timestamp="1535484485231">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" timestamp="1535486547564">
+        <mark key="'" line="38" column="3" />
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="27" />
-        <mark key="^" line="28" column="38" />
+        <mark key="^" line="30" column="38" />
         <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535180003083">
@@ -136,16 +138,19 @@
       <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" />
       <jump line="15" column="90" filename="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" />
       <jump line="21" column="3" filename="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" />
+      <jump line="29" column="31" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" />
+      <jump line="16" column="10" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" />
+      <jump line="38" column="3" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UID</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>UID</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text>app.logger.info</text>
       </register>
       <register name="0" type="4">
         <text>data['tags']['geo']</text>
@@ -182,11 +187,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search>app.logger.info</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
-      <last-replace>Story</last-replace>
-      <last-substitute>NGStory</last-substitute>
+      <last-pattern>app.logger.info</last-pattern>
+      <last-replace>print</last-replace>
+      <last-substitute>app.logger.info</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -194,12 +199,16 @@
       <history-search>
         <entry>NGStory</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>print</entry>
+        <entry>app.logger.info</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>we</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL05HU3RvcnkvU3Rvcnkv</entry>
+        <entry>%s/print/app.logger.info/gc</entry>
+        <entry>%s/app.logger.info/print/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

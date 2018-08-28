@@ -71,12 +71,24 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/ng3_services.py" timestamp="1535496078243">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="43" column="30" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="4" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/fetch_req.py" timestamp="1535495951962">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535414824001">
         <mark key="'" line="11" column="112" />
@@ -92,6 +104,12 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/lxml_templates.py" timestamp="1535497648621">
+        <mark key="[" line="89" column="25" />
+        <mark key="]" line="89" column="25" />
+        <mark key="." line="89" column="25" />
+        <mark key="^" line="89" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app.py" timestamp="1535088653957">
         <mark key="'" line="22" column="86" />
         <mark key="[" line="1" column="0" />
@@ -99,12 +117,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1535486621302">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1535497273495">
         <mark key="'" line="29" column="31" />
-        <mark key="[" line="61" column="57" />
-        <mark key="]" line="62" column="27" />
-        <mark key="^" line="62" column="27" />
-        <mark key="." line="62" column="27" />
+        <mark key="[" line="40" column="47" />
+        <mark key="]" line="40" column="49" />
+        <mark key="^" line="40" column="49" />
+        <mark key="." line="40" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1535088532933">
         <mark key="[" line="0" column="7" />
@@ -112,12 +130,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" timestamp="1535486547564">
-        <mark key="'" line="38" column="3" />
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="20" column="27" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" timestamp="1535496433786">
+        <mark key="'" line="35" column="3" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535180003083">
         <mark key="'" line="86" column="23" />
@@ -125,6 +143,11 @@
         <mark key="]" line="85" column="28" />
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="28" />
+      </file>
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/ng3_services.py" timestamp="1535496687357">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -149,11 +172,11 @@
       <jump line="38" column="3" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>dumps</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -162,31 +185,31 @@
         <text>data['tags']['geo']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICBwLnRleHQgPSBwYXJhWzk6LTEwXQoKICAgICMgSW5mb2Jsb3hlcyB0YWcK</text>
       </register>
-      <register name="2" type="4">
-        <text>[]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVVJMIGlzICIgKyB1cmwpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text />
-      </register>
-      <register name="4" type="4">
-        <text>0</text>
-      </register>
-      <register name="5" type="4">
-        <text>[0]</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgie30gPT4ge30iLmZvcm1hdChrZXksIHZhbHVlKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIG5nM19wYWNrYWdlLml0ZW1zKCk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2lmIDogcHByaW50KChkYXRhKSkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHBhcmFtc1sndXJsJ10gKyAnP2lkPScgKyB1aWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50KGV0cmVlLnRvc3RyaW5nKHhtbCwgcHJldHR5X3ByaW50PVRydWUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

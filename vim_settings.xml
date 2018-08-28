@@ -33,19 +33,25 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" timestamp="1535416100338">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" timestamp="1535490618775">
         <mark key="'" line="16" column="90" />
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1535417674136">
-        <mark key="'" line="21" column="3" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="6" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1535491320693">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1535490860253">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/schema.sql" timestamp="1535103879118">
         <mark key="[" line="16" column="1" />
@@ -143,11 +149,11 @@
       <jump line="38" column="3" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCAK</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>dumps</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -155,32 +161,32 @@
       <register name="0" type="4">
         <text>data['tags']['geo']</text>
       </register>
-      <register name="1" type="4">
-        <text>[]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBqc29uIGltcG9ydCAK</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>[]</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="4" type="4">
+        <text>0</text>
+      </register>
+      <register name="5" type="4">
         <text>[0]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVybCA9IHBhcmFtc1sndXJsJ10gKyAnP2lkPScgKyB1aWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcyA9IGdldF9wYXJhbXMoJy4vY29uZmlnL3NpdGUuaW5pJywgJ2dldCcpCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IHBhcmFtc1sndXJsJ10gKyAnP2lkPScgKyB1aWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

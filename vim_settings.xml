@@ -90,18 +90,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1535564375362">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="29" column="74" />
-        <mark key="." line="29" column="74" />
-        <mark key="^" line="29" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1535565969874">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="40" column="3" />
+        <mark key="." line="40" column="3" />
+        <mark key="^" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535563586986">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535565680206">
         <mark key="'" line="11" column="112" />
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="70" />
-        <mark key="." line="2" column="92" />
-        <mark key="^" line="2" column="89" />
+        <mark key="[" line="17" column="94" />
+        <mark key="]" line="17" column="99" />
+        <mark key="." line="17" column="99" />
+        <mark key="^" line="17" column="99" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -179,43 +179,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data['']</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>data['']</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
       </register>
-      <register name="0" type="4">
-        <text>data['tags']['geo'][0] if data['tags']['geo'] else '',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG5nM19kYXRhWydTdG9yeSddWydTdW1tYXJ5J10gPSAnJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5nM19kYXRhWydTdG9yeSddWydFeHRJZCddID0gZGF0YVsnaWQnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwLnRleHQgPSBwYXJhWzk6LTEwXQoKICAgICMgSW5mb2Jsb3hlcyB0YWcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiVVJMIGlzICIgKyB1cmwpCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwLnRleHQgPSBwYXJhWzk6LTEwXQoKICAgICMgSW5mb2Jsb3hlcyB0YWcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiVVJMIGlzICIgKyB1cmwpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgie30gPT4ge30iLmZvcm1hdChrZXksIHZhbHVlKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIG5nM19wYWNrYWdlLml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgie30gPT4ge30iLmZvcm1hdChrZXksIHZhbHVlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGZvciBrZXksIHZhbHVlIGluIG5nM19wYWNrYWdlLml0ZW1zKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

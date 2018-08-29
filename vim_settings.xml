@@ -90,11 +90,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="25" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1535504264015">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1535561502281">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1535414824001">
         <mark key="'" line="11" column="112" />

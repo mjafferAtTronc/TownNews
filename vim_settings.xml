@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/generate_story.py" timestamp="1535737263954">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/generate_story.py" timestamp="1535740005229">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/tags.py" timestamp="1535665290082">
         <mark key="[" line="165" column="1" />
@@ -199,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slug[data['slug'][:5]]['desk'] if slug[data['slug'][:5]] else data['slug'],</text>
+        <text>data['slug']</text>
       </register>
       <register name="-" type="4">
-        <text>slug[data['slug'][:5]]['desk'] if slug[data['slug'][:5]] else data['slug'],</text>
+        <text>data['slug']</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -257,31 +257,31 @@
     return 'Invalid ID', 200</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNvX2RhdGUgPSBkdC5kYXRldGltZS5zdHJwdGltZShzbHVnX2RhdGUgLSBkdC50aW1lZGVsdGEoMSksICIlWS0lbS0lZCIpLmlzb2Zvcm1hdCgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+      <register name="2" type="4">
+        <text>(int(day)-1)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICAKICAgIGNoaWxkcmVuID0gW3sKICAgICAgICAgICAgICAgICAgICAnYXNzZXRfdHlwZSc6ICdpbWFnZScsCiAgICAgICAgICAgICAgICAgICAgJ2lkJzogJzk4YjhjOGQ2LTk5OWYtMTFlOC1hYWFlLTFmYjYyMjk3YjQ2NicKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ2Fzc2V0X3R5cGUnOiAnaW1hZ2UnLAogICAgICAgICAgICAgICAgICAgICdpZCc6ICdjODhlZTcxNi05OTlmLTExZTgtYjQ2OS05MzBkNDZmYzZlMDEnCiAgICAgICAgICAgICAgICB9CiAgICBdCiAgICAKICAgIGltYWdlcyA9IFtdCiAgICBmb3IgY2hpbGQgaW4gY2hpbGRyZW46CiAgICAgICAgaWYgY2hpbGRbJ2Fzc2V0X3R5cGUnXSA9PSAnaW1hZ2UnOgogICAgICAgICAgICBpbWFnZV9maWxlbmFtZSA9IGZldGNoX2NoaWxkX2ltYWdlcyhjaGlsZFsnaWQnXSkKICAgICAgICAgICAgaW1hZ2VzLmFwcGVuZChpbWFnZV9maWxlbmFtZSkKICAgIAogICAgcHByaW50KGltYWdlcyk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gcGFyYW1zWyd1cmwnXSArICc/aWQ9JyArIGlkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXJsICsgJyAnICsgY3VycmVudF9hcHAuaW5zdGFuY2VfcGF0aAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICAKICAgIGNoaWxkcmVuID0gW3sKICAgICAgICAgICAgICAgICAgICAnYXNzZXRfdHlwZSc6ICdpbWFnZScsCiAgICAgICAgICAgICAgICAgICAgJ2lkJzogJzk4YjhjOGQ2LTk5OWYtMTFlOC1hYWFlLTFmYjYyMjk3YjQ2NicKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ2Fzc2V0X3R5cGUnOiAnaW1hZ2UnLAogICAgICAgICAgICAgICAgICAgICdpZCc6ICdjODhlZTcxNi05OTlmLTExZTgtYjQ2OS05MzBkNDZmYzZlMDEnCiAgICAgICAgICAgICAgICB9CiAgICBdCiAgICAKICAgIGltYWdlcyA9IFtdCiAgICBmb3IgY2hpbGQgaW4gY2hpbGRyZW46CiAgICAgICAgaWYgY2hpbGRbJ2Fzc2V0X3R5cGUnXSA9PSAnaW1hZ2UnOgogICAgICAgICAgICBpbWFnZV9maWxlbmFtZSA9IGZldGNoX2NoaWxkX2ltYWdlcyhjaGlsZFsnaWQnXSkKICAgICAgICAgICAgaW1hZ2VzLmFwcGVuZChpbWFnZV9maWxlbmFtZSkKICAgIAogICAgcHByaW50KGltYWdlcyk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gcGFyYW1zWyd1cmwnXSArICc/aWQ9JyArIGlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGTEFTS19ERUJVRz0xLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXJsICsgJyAnICsgY3VycmVudF9hcHAuaW5zdGFuY2VfcGF0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDoK</text>
+        <text encoding="base64">ICAgICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -309,8 +309,8 @@
         <entry encoding="base64">JzwsJz5zL05HU3RvcnkvU3Rvcnkv</entry>
         <entry>%s/print/app.logger.info/gc</entry>
         <entry>%s/app.logger.info/print/gc</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

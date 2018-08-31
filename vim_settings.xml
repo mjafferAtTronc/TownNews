@@ -21,11 +21,12 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ninja/app/__init__.py" timestamp="1535748889945">
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/__init__.py" timestamp="1535754175971">
         <mark key="'" line="9" column="61" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="18" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1535588545971">
         <mark key="'" line="23" column="3" />
@@ -82,11 +83,11 @@
         <mark key="." line="89" column="25" />
         <mark key="^" line="89" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ninja/app/routes/data.py" timestamp="1535749991486">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/routes/data.py" timestamp="1535753643019">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app.py" timestamp="1535088653957">
         <mark key="'" line="22" column="86" />
@@ -107,6 +108,12 @@
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/routes/__init__.py" timestamp="1535754044608">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1535588083722">
         <mark key="[" line="13" column="11" />
@@ -224,11 +231,11 @@
       <jump line="7" column="61" filename="$USER_HOME$/PycharmProjects/ninja/app/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -283,31 +290,31 @@
     return 'Invalid ID', 200</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1NFTEVDVCAnCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gZGIuZXhlY3V0ZSgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYiA9IGdldF9kYigpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAucm91dGVzIGltcG9ydCByb3V0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3QodXJsX2ZvcignZGF0YS5mZXRjaCcpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNvX2RhdGUgPSBkdC5kYXRldGltZS5zdHJwdGltZShzbHVnX2RhdGUgLSBkdC50aW1lZGVsdGEoMSksICIlWS0lbS0lZCIpLmlzb2Zvcm1hdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2RkCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(int(day)-1)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1NFTEVDVCAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

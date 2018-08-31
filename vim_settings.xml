@@ -25,11 +25,11 @@
         <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ninja/app/__init__.py" timestamp="1535754175971">
-        <mark key="'" line="9" column="61" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="34" />
+        <mark key="'" line="10" column="61" />
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1535588545971">
         <mark key="'" line="23" column="3" />
@@ -55,11 +55,11 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ninja/app/schema.sql" timestamp="1535747324904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/schema.sql" timestamp="1535757767054">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ninja/app/templates/fetch.html" timestamp="1535754739776">
         <mark key="'" line="4" column="22" />
@@ -93,11 +93,11 @@
         <mark key="." line="89" column="25" />
         <mark key="^" line="89" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ninja/app/routes/data.py" timestamp="1535754926079">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/routes/data.py" timestamp="1535757053396">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="55" />
+        <mark key="^" line="31" column="55" />
+        <mark key="." line="31" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app.py" timestamp="1535088653957">
         <mark key="'" line="22" column="86" />
@@ -138,6 +138,12 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/templates/feed.html" timestamp="1535757469337">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ninja/app.py" timestamp="1535745592523" />
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535180003083">
         <mark key="'" line="86" column="23" />
@@ -169,6 +175,12 @@
         <mark key="]" line="31" column="39" />
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/data.py" timestamp="1535758272964">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/auth/register.html" timestamp="1535397418832">
         <mark key="[" line="13" column="11" />
@@ -243,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fetch</text>
+        <text>elif</text>
       </register>
       <register name="-" type="4">
-        <text>fetch</text>
+        <text>elif</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -255,31 +267,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaW5mb1sndGVtcCddIH19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdCh1cmxfZm9yKCdkYXRhLmluZm8nKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
+        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEK</text>
+      <register name="3" type="4">
+        <text>((data)[::-1])</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>r'C:\Users\mjaffer\PycharmProjects\ninja\app\templates\feed.html',
+                                             data=data</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAucm91dGVzIGltcG9ydCByb3V0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBkYXRhPWRhdGEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3QodXJsX2ZvcignZGF0YS5mZXRjaCcpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2RkCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

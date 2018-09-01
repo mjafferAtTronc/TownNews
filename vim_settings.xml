@@ -176,11 +176,11 @@
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ninja/app/data.py" timestamp="1535758272964">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/ninja/app/data.py" timestamp="1535760457157">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/auth/register.html" timestamp="1535397418832">
         <mark key="[" line="13" column="11" />
@@ -254,8 +254,8 @@
       <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/ninja/app/templates/fetch.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>elif</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
       </register>
       <register name="-" type="4">
         <text>elif</text>
@@ -267,32 +267,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaW5mb1sndGVtcCddIH19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCh1cmxfZm9yKCdkYXRhLmluZm8nKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlZGlyZWN0KHVybF9mb3IoJ2RhdGEuaW5mbycpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdCh1cmxfZm9yKCdkYXRhLmluZm8nKSkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>((data)[::-1])</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>r'C:\Users\mjaffer\PycharmProjects\ninja\app\templates\feed.html',
                                              data=data</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBkYXRhPWRhdGEpKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -321,8 +321,8 @@
         <entry>%s/print/app.logger.info/gc</entry>
         <entry>%s/app.logger.info/print/gc</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -69,11 +69,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536006797561">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="11" column="53" />
-        <mark key="." line="11" column="53" />
-        <mark key="^" line="11" column="53" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536008236842">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+        <mark key="^" line="20" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/tags.py" timestamp="1536002463974">
         <mark key="'" line="0" column="0" />
@@ -215,11 +216,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/package_template.xml" timestamp="1536006426876">
-        <mark key="[" line="14" column="79" />
-        <mark key="]" line="14" column="90" />
-        <mark key="." line="14" column="90" />
-        <mark key="^" line="14" column="90" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/package_template.xml" timestamp="1536008140904">
+        <mark key="[" line="5" column="78" />
+        <mark key="]" line="5" column="81" />
+        <mark key="." line="5" column="81" />
+        <mark key="^" line="5" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/fetch_req.py" timestamp="1535590340062">
         <mark key="[" line="2" column="0" />
@@ -267,57 +268,60 @@
       <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/ninja/app/templates/fetch.html" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/tags.py" />
       <jump line="0" column="0" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/tags.py" />
+      <jump line="6" column="4" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>edition</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>edition</text>
       </register>
       <register name="/" type="4">
-        <text>app.logger.info</text>
+        <text>desk</text>
       </register>
-      <register name="0" type="4">
-        <text>ng3_data['Budget']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhWydlZGl0aW9uJ10gPSB0YWdzLnNsdWdbZGF0YVsnc2x1ZyddWzo1XV1bJ2VkaXRpb24nXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpc29fZGF0ZSA9IChkYXRlIC0gZHQudGltZWRlbHRhKDEpKS5pc29mb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhWydwcm9kdWN0J10gPSBkYXRhWydkZXNrJ10uc3BsaXQoJy8nKVswXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpc29fZGF0ZSA9IGR0LmRhdGV0aW1lLnN0cnB0aW1lKGRhdGUsICIlWSAlbSAlZCIpLmlzb2Zvcm1hdCgpCg==</text>
+        <text encoding="base64">ICAgIG5nM19kYXRhID0ge30KCiAgICAjIENvbnN0cnVjdGluZyAnZGVzaycKICAgIHNsdWcgPSBkYXRhWydzbHVnJ10KICAgIGlmIHNsdWcgaXMgbm90IE5vbmU6CiAgICAgICAgbmczX2RhdGFbJ2Rlc2snXSA9IHRhZ3Muc2x1Z1tzbHVnWzo1XV1bJ2Rlc2snXQogICAgZWxzZToKICAgICAgICBuZzNfZGF0YVsnZGVzayddID0gdGFncy5zbHVnWyd2cC1udyddWydkZXNrJ10KCiAgICAjIEdldHRpbmcgdGhlIHBsYW5uaW5nL3B1YmxpY2F0aW9uIGRhdGUKICAgIGlmIGRhdGFbJ3NsdWcnXSBpcyBub3QgTm9uZToKICAgICAgICB5ZWFyID0gZHQuZGF0ZXRpbWUubm93KCkueWVhcgogICAgICAgIG1vbnRoLCBkYXkgPSByZS5zZWFyY2gocidbQS1aYS16LV0rKFxkezJ9KShcZHsyfSknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YVsnc2x1ZyddKS5ncm91cHMoKQogICAgICAgIHNsdWdfZGF0ZSA9IGR0LmRhdGV0aW1lLnN0cnB0aW1lKCclWS0lbS0lZCcsICJ7fS17fS17fSIuZm9ybWF0KHllYXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9udGgsIGRheSkpCiAgICAgICAgcGxhbl9kYXRlID0gKHNsdWdfZGF0ZSAtIGR0LnRpbWVkZWx0YSgxKSkuaXNvZm9ybWF0KCkKICAgIGVsc2U6CiAgICAgICAgcGxhbl9kYXRlID0gZGF0YVsnc3RhcnRfdGltZSddCgogICAgIyBQbGFuL1B1YmxpY2F0aW9uIGRhdGUKICAgIG5nM19kYXRhWydwdWJfZGF0ZSddID0gcGxhbl9kYXRlCgogICAgIyBQYWNrYWdlIGV4dGVybmFsIElECiAgICBuZzNfZGF0YVsncGtnX2V4dF9pZCddID0gZGF0YVsnc2x1ZyddICArICctUEtHJwogICAgbmczX2RhdGFbJ05HSUQnXSA9IGRhdGFbJ05HSUQnXQogICAgbmczX2RhdGFbJ3N0b3J5X2V4dF9pZCddID0gZGF0YVsnc2x1ZyddCiAgICBuZzNfZGF0YVsncHJvZHVjdCddID0gdGFncy5zbHVnW2RhdGFbJ3NsdWcnXVs6NV1dWydwYWNrYWdlJ10KCiAgICAjIEJ1ZGdldCBQYWNrYWdlCiAgICBuZzNfZGF0YVsnQnVkZ2V0J10gPSB7fQogICAgbmczX2RhdGFbJ0J1ZGdldCddWydOYW1lJ10gPSBkYXRhWydzbHVnJ10KICAgIG5nM19kYXRhWydCdWRnZXQnXVsncHViX2RhdGUnXSA9IHBsYW5fZGF0ZQogICAgbmczX2RhdGFbJ0J1ZGdldCddWydMYXlvdXREZXNrJ10gPSBuZzNfZGF0YVsnZGVzayddLnNwbGl0KCcvJylbMF0KICAgIG5nM19kYXRhWydCdWRnZXQnXVsnWm9uZSddID0gdGFncy5zbHVnCgoKICAgICMgRXh0ZXJuYWwgSUQKICAgIG5nM19kYXRhWydTdG9yeSddID0ge30KICAgIG5nM19kYXRhWydTdG9yeSddWydOYW1lJ10gPWRhdGFbJ3NsdWcnXSBpZiBkYXRhWydzbHVnJ10gZWxzZSAnJwogICAgbmczX2RhdGFbJ1N0b3J5J11bJ0Rlc2MnXSA9IGRhdGFbJ3RpdGxlJ10gaWYgZGF0YVsndGl0bGUnXSBlbHNlICcnCiAgICBuZzNfZGF0YVsnU3RvcnknXVsnTG9jJ10gPSBkYXRhWyd0YWdzJ11bJ2dlbyddWzBdIGlmIGRhdGFbJ3RhZ3MnXVsnZ2VvJ10gZWxzZSAnJwogICAgbmczX2RhdGFbJ1N0b3J5J11bJ1BsYW5EYXRlJ10gPSBkYXRhWyd1cGRhdGVfdGltZSddCiAgICBuZzNfZGF0YVsnU3RvcnknXVsnRXh0SWQnXSA9IGRhdGFbJ2lkJ10KICAgIG5nM19kYXRhWydTdG9yeSddWydTdW1tYXJ5J10gPSAnJwogICAgbmczX2RhdGFbJ1N0b3J5J11bJ0N1c3RvbSddID0gZGF0YVsncmV2aXNpb24nXQoKICAgICMgVXNlcnMKICAgIG5nM19kYXRhWydhdXRob3JzJ10gPSBkYXRhWydhdXRob3JzJ10KCiAgICAjIEltYWdlcwogICAgbmczX2RhdGFbJ0ltYWdlcyddID0gW10KICAgIGZvciBjaGlsZCBpbiBkYXRhWydyZWxhdGlvbnNoaXBzJ11bJ2NoaWxkJ106CiAgICAgICAgaWYgY2hpbGRbJ2Fzc2V0X3R5cGUnXSA9PSAnaW1hZ2UnOgogICAgICAgICAgICBuZzNfZGF0YVsnSW1hZ2VzJ10uYXBwZW5kKGNoaWxkKQoKCgoKCgoKCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBrZ19yZXN1bHQgPSBkZAo=</text>
+        <text encoding="base64">ICAgICAgICBpc29fZGF0ZSA9IChkYXRlIC0gZHQudGltZWRlbHRhKDEpKS5pc29mb3JtYXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLmxvZ2dlci5pbmZvKHN0cih4bWx0b2RpY3QucGFyc2UocmVzdWx0KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpc29fZGF0ZSA9IGR0LmRhdGV0aW1lLnN0cnB0aW1lKGRhdGUsICIlWSAlbSAlZCIpLmlzb2Zvcm1hdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnZW5lcmF0ZV9zdG9yeSBpbXBvcnQgY3JlYXRlX3htbCBhcyBjcmVhdGVfc3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBrZ19yZXN1bHQgPSBkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLmxvZ2dlci5pbmZvKHN0cih4bWx0b2RpY3QucGFyc2UocmVzdWx0KSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0KHVybF9mb3IoJ2RhdGEuaW5mbycpKQo=</text>
+        <text encoding="base64">ZnJvbSBnZW5lcmF0ZV9zdG9yeSBpbXBvcnQgY3JlYXRlX3htbCBhcyBjcmVhdGVfc3RvcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCh1cmxfZm9yKCdkYXRhLmluZm8nKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0KHVybF9mb3IoJ2RhdGEuaW5mbycpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>app.logger.info</last-search>
+      <last-search>desk</last-search>
       <last-offset />
-      <last-pattern>app.logger.info</last-pattern>
-      <last-replace>print</last-replace>
-      <last-substitute>app.logger.info</last-substitute>
+      <last-pattern>desk</last-pattern>
+      <last-replace>edition</last-replace>
+      <last-substitute>desk</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -327,6 +331,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>print</entry>
         <entry>app.logger.info</entry>
+        <entry>desk</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -336,6 +341,9 @@
         <entry>%s/app.logger.info/print/gc</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL2Rlc2svem9uZS8=</entry>
+        <entry encoding="base64">JzwsJz5zL2Rlc2svZWRpdGlvbi9n</entry>
+        <entry encoding="base64">JzwsJz4vZWRpdGlvbi9wYWNrYWdlL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

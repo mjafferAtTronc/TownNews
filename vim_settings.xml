@@ -31,12 +31,6 @@
         <mark key="." line="19" column="34" />
         <mark key="^" line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1535588545971">
-        <mark key="'" line="23" column="3" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/schema.sql" timestamp="1535103879118">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
@@ -112,12 +106,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1535744908854">
-        <mark key="'" line="29" column="31" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="38" />
-        <mark key="^" line="36" column="38" />
-        <mark key="." line="36" column="38" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1536001167019">
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="67" column="64" />
+        <mark key="]" line="67" column="76" />
+        <mark key="^" line="67" column="76" />
+        <mark key="." line="67" column="76" />
       </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/validator.py" timestamp="1535571796338">
         <mark key="[" line="3" column="36" />
@@ -173,6 +167,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/generate_package.py" timestamp="1536000586442">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/db.py" timestamp="1535103005296">
         <mark key="'" line="17" column="20" />
@@ -260,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PublicationDate</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>PublicationDate</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -272,32 +271,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaW5mb1sndGVtcCddIH19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLmxvZ2dlci5pbmZvKHN0cih4bWx0b2RpY3QucGFyc2UocmVzdWx0KSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0KHVybF9mb3IoJ2RhdGEuaW5mbycpKQo=</text>
+        <text encoding="base64">ZnJvbSBnZW5lcmF0ZV9zdG9yeSBpbXBvcnQgY3JlYXRlX3htbCBhcyBjcmVhdGVfc3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcmVjdCh1cmxfZm9yKCdkYXRhLmluZm8nKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlZGlyZWN0KHVybF9mb3IoJ2RhdGEuaW5mbycpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZWRpcmVjdCh1cmxfZm9yKCdkYXRhLmluZm8nKSkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGlmIHJlcXVlc3QubWV0aG9kID09ICdHRVQnOgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>((data)[::-1])</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>r'C:\Users\mjaffer\PycharmProjects\ninja\app\templates\feed.html',
                                              data=data</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBkYXRhPWRhdGEpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLCBkYXRhPWRhdGEpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -347,6 +346,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

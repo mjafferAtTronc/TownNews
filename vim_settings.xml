@@ -74,11 +74,17 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1535569786809">
-        <mark key="[" line="40" column="42" />
-        <mark key="]" line="41" column="42" />
-        <mark key="." line="41" column="42" />
-        <mark key="^" line="41" column="42" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1535995151219">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/tags.py" timestamp="1535995722390">
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -144,7 +150,6 @@
         <mark key="^" line="19" column="37" />
         <mark key="." line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ninja/app.py" timestamp="1535745592523" />
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/auth.py" timestamp="1535180003083">
         <mark key="'" line="86" column="23" />
         <mark key="[" line="85" column="28" />
@@ -254,11 +259,11 @@
       <jump line="4" column="22" filename="$USER_HOME$/PycharmProjects/ninja/app/templates/fetch.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnT0snLCAyMDAK</text>
+      <register name="&quot;" type="4">
+        <text>PublicationDate</text>
       </register>
       <register name="-" type="4">
-        <text>elif</text>
+        <text>PublicationDate</text>
       </register>
       <register name="/" type="4">
         <text>app.logger.info</text>
@@ -321,8 +326,8 @@
         <entry>%s/print/app.logger.info/gc</entry>
         <entry>%s/app.logger.info/print/gc</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

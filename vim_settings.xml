@@ -38,11 +38,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1536080293475">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1536098485591">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="14" column="97" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/generate_story.py" timestamp="1534562121548">
         <mark key="[" line="5" column="0" />
@@ -172,11 +173,6 @@
         <mark key="^" line="42" column="50" />
         <mark key="." line="42" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535748422574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/generate_package.py" timestamp="1536084169439">
         <mark key="[" line="34" column="56" />
         <mark key="]" line="34" column="56" />
@@ -215,6 +211,18 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/config/site.ini" timestamp="1536098469020">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/schema.sql" timestamp="1536097495294">
+        <mark key="'" line="5" column="24" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="41" />
+        <mark key="^" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="0" />
@@ -246,6 +254,13 @@
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/db.py" timestamp="1536098105322">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="23" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" />
@@ -263,7 +278,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" />
       <jump line="12" column="7" filename="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" />
       <jump line="15" column="90" filename="$USER_HOME$/PycharmProjects/TownNews/app/routes/webhook.py" />
-      <jump line="21" column="3" filename="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" />
       <jump line="29" column="31" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" />
       <jump line="16" column="10" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" />
       <jump line="38" column="3" filename="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" />
@@ -276,13 +290,17 @@
       <jump line="6" column="4" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
       <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
       <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
+      <jump line="5" column="24" filename="$USER_HOME$/PycharmProjects/TownNews/app/schema.sql" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/db.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/PycharmProjects/TownNews/app/db.py" />
+      <jump line="21" column="11" filename="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>VARCHAR</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
@@ -294,28 +312,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1dGlsaXRpZXMgaW1wb3J0IGdldF9wYXJhbXMK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcyA9IGdldF9wYXJhbXMoKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QGJwLnJvdXRlKCcvPGlkPicsIG1ldGhvZHM9WydHRVQnXSkKZGVmIGxpc3RlbmVyKGlkKToKICAgIGlmIGlkID09IGN1cnJlbnRfYXBwLmNvbmZpZy5nZXQoJ1NFQ1JFVF9LRVknKToKICAgICAgICBpZiByZXF1ZXN0LmlzX2pzb246CiAgICAgICAgICAgIHBhY2tldCA9IHJlcXVlc3QuZ2V0X2pzb24oKQogICAgICAgICAgICBpZCA9IHBhY2tldFsnZGF0YSddWyd1dWlkJ10KICAgICAgICAgICAgcGFyYW1zID0gZ2V0X3BhcmFtcyhvcy5wYXRoLmpvaW4oY3VycmVudF9hcHAuaW5zdGFuY2VfcGF0aCwgJ3NpdGUuaW5pJyksICdnZXQnKQogICAgICAgICAgICBkYXRhID0gZmV0Y2hfZGF0YV9mcm9tX3VybChwYXJhbXNbJ3VybCddLCBwYXJhbXNbJ3VzZXInXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW1zWydwYXNzd29yZCddLCBwYXJhbXM9eydpZCc6IGlkfSkK</text>
+        <text encoding="base64">ICAgICMgU2V0dGluZyB1cCBzb21lIGFwcCBsZXZlbCBHTE9CQUxTCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGNjaTpib2R5IG5hbWU9ImJvZHkiIGNsYXNzPSJlbGVtZW50IiBkaXNwbGF5bmFtZT0iYm9keSI+CiAgICAgICAgICAgICAgICAgIHslIGZvciBwYXJhIGluICAlfQogICAgICAgICAgICAgICAgICA8Y2NpOnA+e3sgcGFyYSB9fTwvY2NpOnA+CiAgICAgICAgICAgICAgICAgIDwvY2NpOmJvZHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPE5HSW1wb3J0U2VydmljZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4KICA8Y3JlYXRldXBkYXRlLXN0b3J5IHN0b3J5LWV4dGVybmFsLWlkPSJ7eyBkYXRhWydzbHVnJ119fSIgZGVzaz0ie3sgZGF0YVsnZGVzayddIH19IiBuZXdzcm9vbT0iRFBNRyI+CiAgICA8b2JqZWN0IGtpbmQ9IlN0b3J5Ij4KICAgICAgPGF0dHJpYnV0ZXM+CiAgICAgICAgPGF0dHJpYnV0ZSBncm91cD0iTkdTdG9yeSIgbmFtZT0iTmFtZSI+e3sgZGF0YVsnc2x1ZyddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZSBncm91cD0iTkdTdG9yeSIgbmFtZT0iRGVzY3JpcHRpb24iPnt7IGRhdGFbJ3RpdGxlJ10gfX08L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlIGdyb3VwPSJOR1N0b3J5IiBuYW1lPSJMb2NhdGlvbiI+e3sgZGF0YVsndGFncyddWydnZW8nXSB9fTwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGUgZ3JvdXA9Ik5HU3RvcnkiIG5hbWU9IlBsYW5uaW5nRGF0ZSIga2luZD0iZGF0ZVRpbWUiPnt7IGRhdGFbJ3B1Yl9kYXRlJ10gfX08L2F0dHJpYnV0ZT4KICAgICAgICA8YXR0cmlidXRlIGdyb3VwPSJOR1N0b3J5IiBuYW1lPSJFeHRlcm5hbElkIj57eyBkYXRhWydpZCddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgPGF0dHJpYnV0ZSBncm91cD0iTkdTdG9yeSIgbmFtZT0iU3VtbWFyeSI+e3sgZGF0YVsndGl0bGUnXSB9fTwvYXR0cmlidXRlPgogICAgICAgIDxhdHRyaWJ1dGUgZ3JvdXA9Ik5HU3RvcnkiIG5hbWU9IkN1c3RvbVN0YXRlIiBraW5kPSJpbnRlZ2VyIj57eyBkYXRhWydDb250ZW50U3RhdGUnXSB9fTwvYXR0cmlidXRlPgogICAgICA8L2F0dHJpYnV0ZXM+CiAgICAgIDxjaGlsZHJlbj4KICAgICAgICB7JSBmb3IgYXV0aG9yIGluIGRhdGFbJ2F1dGhvcnMnXSAlfQogICAgICAgIDxvYmplY3Qga2luZD0iVXNlciI+CiAgICAgICAgICA8YXR0cmlidXRlcz4KICAgICAgICAgICAgPGF0dHJpYnV0ZSBncm91cD0iQ2NpVXNlciIga2luZD0ic3RyaW5nIiBuYW1lPSJGdWxsTmFtZSI+e3sgYXV0aG9yWydmaXJzdF9uYW1lJ10sIGF1dGhvclsnbGFzdF9uYW1lJ10gfX08L2F0dHJpYnV0ZT4KICAgICAgICAgIDwvYXR0cmlidXRlcz4KICAgICAgICA8L29iamVjdD4KICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICA8IS0tIEltYWdlcyAtLT4KICAgICAgICB7JSBpZiBkYXRhWydJbWFnZXMnXSAlfQogICAgICAgIHslIGZvciBpbWcgaW4gZGF0YVsnSW1hZ2VzJ10gJX0KICAgICAgICA8b2JqZWN0IGtpbmQ9IkltYWdlIj4KICAgICAgICAgIDxhdHRyaWJ1dGVzPgogICAgICAgICAgICA8YXR0cmlidXRlIG5hbWU9Ik5hbWUiPnt7IGltZ1snTmFtZSddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgICAgIDxhdHRyaWJ1dGUgZ3JvdXA9IkV4dHJhSW5mbyIgbmFtZT0iQ2FwdGlvblRleHQiPnt7IGltZ1snY2FwdGlvbiddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgICAgIDxhdHRyaWJ1dGUgbmFtZT0iRXh0ZXJuYWxJZCI+e3sgaW1nWydFeHRJZCddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgICA8L2F0dHJpYnV0ZXM+CiAgICAgICAgICA8Y29udGVudD4KICAgICAgICAgICAgPGxpbmsgZm9ybWF0PSJpbWFnZS9qcGVnIiByZWZlcmVuY2U9Int7IGltZ1sncmVmJ10gfX0iLz4KICAgICAgICAgIDwvY29udGVudD4KICAgICAgICA8L29iamVjdD4KICAgICAgICB7JSBlbmRmb3IgJX0KICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgIDwhLS0gTWVkaWEgTmV1dHJhbCBUZXh0IENvbnRlbnQgLS0+CiAgICAgICAgPG9iamVjdCBraW5kPSJUZXh0Ij4KICAgICAgICAgIDxhdHRyaWJ1dGVzPgogICAgICAgICAgICA8YXR0cmlidXRlIGdyb3VwPSJHcmFwaCIgbmFtZT0iTmFtZSI+e3sgZGF0YVsnc2x1ZyddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgICAgIDxhdHRyaWJ1dGUgZ3JvdXA9IkdyYXBoIiBuYW1lPSJFeHRlcm5hbElkIj57eyBkYXRhWydpZCddIH19PC9hdHRyaWJ1dGU+CiAgICAgICAgICAgIDxhdHRyaWJ1dGUgZ3JvdXA9IkdyYXBoIiBuYW1lPSJEZXNjcmlwdGlvbiI+e3sgZGF0YVsndGl0bGUnXSB9fTwvYXR0cmlidXRlPgogICAgICAgICAgICA8YXR0cmlidXRlIGdyb3VwPSJHcmFwaCIga2luZD0iaW50ZWdlciIgbmFtZT0iQ29udGVudFN0YXRlIj57eyBkYXRhWydDb250ZW50U3RhdGUnXSB9fTwvYXR0cmlidXRlPgogICAgICAgICAgICA8YXR0cmlidXRlIGdyb3VwPSJHcmFwaCIga2luZD0iaW50ZWdlciIgbmFtZT0iQ29udGV4dHVhbFVzZSI+e3sgZGF0YVsnQ29udGV4dFN0YXRlJ10gfX08L2F0dHJpYnV0ZT4KICAgICAgICAgICAgPGF0dHJpYnV0ZSBncm91cD0iR3JhcGgiIGtpbmQ9InN0cmluZyIgbmFtZT0iSUlNX1NwZWNpYWxJbnN0ciI+e3sgZGF0YVsnVGV4dCddWydJSQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJfZGF0ZSA9IChzbHVnX2RhdGUgLSBkdC50aW1lZGVsdGEoMSkpLmlzb2Zvcm1hdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJVksJW0sJWQiKQo=</text>
+        <text encoding="base64">ICBGT1JFSUdOIEtFWSAgKHBhcmVudF9pZCkgUkVGRVJFTkNFUyBQUklNQVJZIEtFWSBhcnRpY2xlcyAodWlkKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -374,6 +392,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

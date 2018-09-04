@@ -209,11 +209,11 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536081575654">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536090887017">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
         <mark key="'" line="0" column="0" />
@@ -279,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>

@@ -12,7 +12,7 @@
       <file name="/Python Console" timestamp="1535755295471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/tags.py" timestamp="1536002582647">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/tags.py" timestamp="1536083602101">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="41" column="25" />
         <mark key="]" line="41" column="26" />
@@ -115,12 +115,12 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1536002097306">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/webhook.py" timestamp="1536083280995">
         <mark key="'" line="30" column="31" />
-        <mark key="[" line="72" column="74" />
-        <mark key="]" line="73" column="62" />
-        <mark key="." line="73" column="62" />
-        <mark key="^" line="73" column="62" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
+        <mark key="^" line="63" column="97" />
       </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/validator.py" timestamp="1535571796338">
         <mark key="[" line="3" column="36" />
@@ -177,7 +177,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/generate_package.py" timestamp="1536003476966">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/generate_package.py" timestamp="1536084169439">
         <mark key="[" line="34" column="56" />
         <mark key="]" line="34" column="56" />
         <mark key="." line="34" column="56" />
@@ -278,11 +278,11 @@
       <jump line="18" column="8" filename="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>

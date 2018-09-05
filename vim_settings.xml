@@ -260,12 +260,12 @@
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/db.py" timestamp="1536098105322">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/db.py" timestamp="1536167879043">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="32" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>

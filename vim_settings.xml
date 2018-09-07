@@ -73,12 +73,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/ng3_services.py" timestamp="1536360799576">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/ng3_services.py" timestamp="1536361667797">
         <mark key="'" line="17" column="3" />
-        <mark key="[" line="79" column="40" />
-        <mark key="]" line="79" column="39" />
-        <mark key="." line="79" column="39" />
-        <mark key="^" line="79" column="39" />
+        <mark key="[" line="97" column="49" />
+        <mark key="]" line="99" column="3" />
+        <mark key="." line="99" column="3" />
+        <mark key="^" line="99" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536353152996">
         <mark key="[" line="10" column="35" />
@@ -338,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_story</text>
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>_story</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>

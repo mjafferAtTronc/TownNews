@@ -41,12 +41,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1536348933061">
-        <mark key="'" line="29" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1536349259896">
+        <mark key="'" line="31" column="11" />
         <mark key="[" line="27" column="59" />
-        <mark key="]" line="28" column="61" />
-        <mark key="^" line="28" column="61" />
-        <mark key="." line="28" column="61" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/generate_story.py" timestamp="1534562121548">
         <mark key="[" line="5" column="0" />
@@ -137,11 +137,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1536348465371">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" timestamp="1536349960549">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="36" column="18" />
       </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/fetch_req.py" timestamp="1535496433786">
         <mark key="'" line="35" column="3" />
@@ -213,12 +214,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536348042259">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536350000513">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="44" />
-        <mark key="^" line="30" column="44" />
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/tests/test_webhook.py" timestamp="1536108442878">
         <mark key="[" line="10" column="11" />
@@ -310,13 +311,14 @@
       <jump line="35" column="4" filename="$USER_HOME$/PycharmProjects/TownNews/app/db.py" />
       <jump line="21" column="11" filename="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/utilities.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
@@ -325,15 +327,18 @@
         <text encoding="base64">ICAgICAgICBpZiByZS5zZWFyY2gocicoXGR7Mn0pKFxkezJ9KSQnLCBkYXRhWydzbHVnJ10pIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzbHVnX21vbnRoLCBzbHVnX2RheSA9IHJlLnNlYXJjaChyJyhcZHsyfSkoXGR7Mn0pJCcsIGRhdGFbJ3NsdWcnXSkKICAgICAgICAgICAgZGF0YVsnc2x1ZyddID0gInZwLW53LXt9e317fSIuZm9ybWF0KGRhdGFbJ3NsdWcnXSwgc2x1Z19tb250aCwgc2x1Z19kYXkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGF0YVsnc2x1ZyddID0gInZwLW53LXt9e317fSIuZm9ybWF0KGRhdGFbJ3NsdWcnXSwgY3VyX21vbnRoLCBjdXJfZGF5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbWFnZV9maWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBvcGVuKG9zLnBhdGguam9pbihhcHAuaW5zdGFuY2VfcGF0aCwgJ2FydGljbGVzJyksICd3JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbWFnZV9maWxlbmFtZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
         <text>mage_filename = ''
     req = fetch_data_from_url(url, params['user'], params['password'])
     data = req.json()
@@ -346,17 +351,17 @@
                 f.write(img)
             image_filename = filename</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZGVmIGZldGNoX2NoaWxkX2ltYWdlcyh1cmwsICoqcGFyYW1zKToK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>**{
                                             current_app.config['TOWN_USER'], current_app.config['TOWN_PASS'])</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBpbWFnZXMgPSBbIAogICAgICAgICAgICAgICAgZGIgPSBnZXRfZGIoKQogICAgICAgICAgICAgICAgaWYgZGIuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICAnU0VMRUNUICcKICAgICAgICAgICAgICAgICk=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if data['relationships']['child'] is not None:
                     children = data['relationships']['child']
                     for child in children:
@@ -369,13 +374,6 @@
                                 'filename': filename,
                             })
                             images.append(image_filename)</text>
-      </register>
-      <register name="9" type="4">
-        <text>db = get_db()
-                if db.execute(
-                    'SELECT uid from articles where uid=?',
-                        (data['id'],)
-                ).fetchone() is not None:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

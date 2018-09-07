@@ -76,11 +76,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536100165978">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536337817690">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/tags.py" timestamp="1536002463974">
         <mark key="'" line="0" column="0" />
@@ -304,16 +305,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vp-nw-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vp-nw-</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGJwLnJvdXRlKCcvPGlkPicsIG1ldGhvZHM9WydHRVQnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2x1Z19tb250aCwgc2x1Z19kYXkgPSByZS5zZWFyY2gocicoXGR7Mn0pKFxkezJ9KSQnLCBkYXRhWydzbHVnJ10pCiAgICAgICAgICAgIGRhdGFbJ3NsdWcnXSA9ICJ2cC1udy17fXt9e30iLmZvcm1hdChkYXRhWydzbHVnJ10sIHNsdWdfbW9udGgsIHNsdWdfZGF5KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGRhdGFbJ3NsdWcnXSA9ICJ2cC1udy17fXt9e30iLmZvcm1hdChkYXRhWydzbHVnJ10sIGN1cl9tb250aCwgY3VyX2RheSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBrawo=</text>

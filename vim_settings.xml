@@ -181,6 +181,12 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="45" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/fetch.py" timestamp="1536347904980">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="35" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/db.py" timestamp="1535103005296">
         <mark key="'" line="17" column="20" />
         <mark key="[" line="31" column="40" />
@@ -207,12 +213,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536344393429">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536348042259">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-        <mark key="." line="42" column="27" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
+        <mark key="^" line="30" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/tests/test_webhook.py" timestamp="1536108442878">
         <mark key="[" line="10" column="11" />
@@ -306,11 +312,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>params['password'],</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
@@ -319,38 +325,57 @@
         <text encoding="base64">ICAgICAgICBpZiByZS5zZWFyY2gocicoXGR7Mn0pKFxkezJ9KSQnLCBkYXRhWydzbHVnJ10pIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzbHVnX21vbnRoLCBzbHVnX2RheSA9IHJlLnNlYXJjaChyJyhcZHsyfSkoXGR7Mn0pJCcsIGRhdGFbJ3NsdWcnXSkKICAgICAgICAgICAgZGF0YVsnc2x1ZyddID0gInZwLW53LXt9e317fSIuZm9ybWF0KGRhdGFbJ3NsdWcnXSwgc2x1Z19tb250aCwgc2x1Z19kYXkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGF0YVsnc2x1ZyddID0gInZwLW53LXt9e317fSIuZm9ybWF0KGRhdGFbJ3NsdWcnXSwgY3VyX21vbnRoLCBjdXJfZGF5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbWFnZV9maWxlbmFtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGcudWlkID0gdWlkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAnT0snLCAyMDAK</text>
+      <register name="4" type="4">
+        <text>mage_filename = ''
+    req = fetch_data_from_url(url, params['user'], params['password'])
+    data = req.json()
+    if data is not None:
+        print(&quot;Content is available&quot;)
+        img = fetch_data_from_url(data['resource_url']).content
+        if img is not None:
+            filename = params['filename']
+            with open(filename, 'wb') as f:
+                f.write(img)
+            image_filename = filename</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnSU5WQUxJRCBKU09OIE9SIElEJywgNTAwCg==</text>
+        <text encoding="base64">ZGVmIGZldGNoX2NoaWxkX2ltYWdlcyh1cmwsICoqcGFyYW1zKToK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgaW1hZ2VzOwo=</text>
+      <register name="6" type="4">
+        <text>**{
+                                            current_app.config['TOWN_USER'], current_app.config['TOWN_PASS'])</text>
       </register>
       <register name="7" type="4">
-        <text>CREATE TABLE images (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  uid TEXT NOT NULL,
-  parent_uid TEXT NOT NULL,
-  time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  is_hires BOOLEAN NOT NULL DEFAULT FALSE,
-  FOREIGN KEY (parent_id) REFERENCES articles (uid)
-);</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpbWFnZXMgPSBbIAogICAgICAgICAgICAgICAgZGIgPSBnZXRfZGIoKQogICAgICAgICAgICAgICAgaWYgZGIuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICAgICAnU0VMRUNUICcKICAgICAgICAgICAgICAgICk=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleSA9ICd2cC1udycKICAgIGRhdGFbJ3B1Yl9kYXRlJ10gPSBkYXRhWydzdGFydF90aW1lJ10KICAgIGRhdGFbJ2Rlc2snXSA9IHRhZ3Muc2x1Z1trZXldWydkZXNrJ10KICAgIGRhdGFbJ3pvbmUnXSA9IHRhZ3Muc2x1Z1trZXldWyd6b25lJ10KICAgIGRhdGFbJ2VkaXRpb24nXSA9IHRhZ3Muc2x1Z1trZXldWydlZGl0aW9uJ10KICAgIGRhdGFbJ3Byb2R1Y3QnXSA9IHRhZ3Muc2x1Z1trZXldWydwYWNrYWdlJ10KICAgIGRhdGFbJ2xheW91dF9kZXNrJ10gPSBkYXRhWydkZXNrJ10uc3BsaXQoJy8nKVswXQo=</text>
+      <register name="8" type="4">
+        <text>if data['relationships']['child'] is not None:
+                    children = data['relationships']['child']
+                    for child in children:
+                        if child['asset_type'] == 'image':
+                            image_url = current_app.config['TOWN_URL'] + '?id=' + child['id']
+                            filename = &quot;{}/img/{}.jpg&quot;.format(current_app.instance_path, ['id'])
+                            image_filename = fetch_child_images(image_url, **{
+                                'user': current_app.config['TOWN_USER'],
+                                'password': current_app.config['TOWN_PASS'],
+                                'filename': filename,
+                            })
+                            images.append(image_filename)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+      <register name="9" type="4">
+        <text>db = get_db()
+                if db.execute(
+                    'SELECT uid from articles where uid=?',
+                        (data['id'],)
+                ).fetchone() is not None:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -25,6 +25,9 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="33" />
       </file>
+      <file name="/a.dummy" timestamp="1536342214759">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/ninja/app/__init__.py" timestamp="1535754175971">
         <mark key="'" line="10" column="61" />
         <mark key="[" line="19" column="32" />
@@ -38,12 +41,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1536098485591">
-        <mark key="'" line="26" column="11" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="14" column="97" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/__init__.py" timestamp="1536343529215">
+        <mark key="'" line="28" column="11" />
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="27" column="58" />
+        <mark key="^" line="27" column="58" />
+        <mark key="." line="27" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/generate_story.py" timestamp="1534562121548">
         <mark key="[" line="5" column="0" />
@@ -204,12 +207,12 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536101993500">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" timestamp="1536344393429">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/tests/test_webhook.py" timestamp="1536108442878">
         <mark key="[" line="10" column="11" />
@@ -222,12 +225,12 @@
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/schema.sql" timestamp="1536097495294">
-        <mark key="'" line="5" column="24" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="41" />
-        <mark key="^" line="16" column="41" />
-        <mark key="." line="16" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/schema.sql" timestamp="1536341782618">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/flaskr/app/templates/base.html" timestamp="1535181223802">
         <mark key="'" line="0" column="0" />
@@ -303,11 +306,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/TownNews/app/webhook.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>slug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>slug</text>
+        <text>params['password'],</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
@@ -316,31 +319,38 @@
         <text encoding="base64">ICAgICAgICBpZiByZS5zZWFyY2gocicoXGR7Mn0pKFxkezJ9KSQnLCBkYXRhWydzbHVnJ10pIGlzIG5vdCBOb25lOgogICAgICAgICAgICBzbHVnX21vbnRoLCBzbHVnX2RheSA9IHJlLnNlYXJjaChyJyhcZHsyfSkoXGR7Mn0pJCcsIGRhdGFbJ3NsdWcnXSkKICAgICAgICAgICAgZGF0YVsnc2x1ZyddID0gInZwLW53LXt9e317fSIuZm9ybWF0KGRhdGFbJ3NsdWcnXSwgc2x1Z19tb250aCwgc2x1Z19kYXkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgZGF0YVsnc2x1ZyddID0gInZwLW53LXt9e317fSIuZm9ybWF0KGRhdGFbJ3NsdWcnXSwgY3VyX21vbnRoLCBjdXJfZGF5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtleSA9ICd2cC1udycKICAgIGRhdGFbJ3B1Yl9kYXRlJ10gPSBkYXRhWydzdGFydF90aW1lJ10KICAgIGRhdGFbJ2Rlc2snXSA9IHRhZ3Muc2x1Z1trZXldWydkZXNrJ10KICAgIGRhdGFbJ3pvbmUnXSA9IHRhZ3Muc2x1Z1trZXldWyd6b25lJ10KICAgIGRhdGFbJ2VkaXRpb24nXSA9IHRhZ3Muc2x1Z1trZXldWydlZGl0aW9uJ10KICAgIGRhdGFbJ3Byb2R1Y3QnXSA9IHRhZ3Muc2x1Z1trZXldWydwYWNrYWdlJ10KICAgIGRhdGFbJ2xheW91dF9kZXNrJ10gPSBkYXRhWydkZXNrJ10uc3BsaXQoJy8nKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5ZWFyID0gZHQuZGF0ZXRpbWUubm93KCkueWVhcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGcudWlkID0gdWlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGFbJ3NsdWcnXSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAnT0snLCAyMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnSU5WQUxJRCBKU09OIE9SIElEJywgNTAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgaW1hZ2VzOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>CREATE TABLE images (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  uid TEXT NOT NULL,
+  parent_uid TEXT NOT NULL,
+  time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  is_hires BOOLEAN NOT NULL DEFAULT FALSE,
+  FOREIGN KEY (parent_id) REFERENCES articles (uid)
+);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZS5zZWFyY2goKHInKFxkezJ9KShcZHsyfSkkJywgZGF0YVsnc2x1ZyddKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2x1Z19tb250aCwgc2x1Z19kYXkgPSByZS5zZWFyY2gocicoXGR7Mn0pKFxkezJ9KSQnLCBkYXRhWydzbHVnJ10pCiAgICAgICAgICAgIGRhdGFbJ3NsdWcnXSA9ICJ7fXt9e30iLmZvcm1hdChkYXRhWydzbHVnJ10sIHNsdWdfbW9udGgsIHNsdWdfZGF5KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGRhdGFbJ3NsdWcnXSA9ICJ7fXt9e30iLmZvcm1hdChkYXRhWydzbHVnJ10sIGN1cl9tb250aCwgY3VyX2RheSkK</text>
+        <text encoding="base64">ICAgIGtleSA9ICd2cC1udycKICAgIGRhdGFbJ3B1Yl9kYXRlJ10gPSBkYXRhWydzdGFydF90aW1lJ10KICAgIGRhdGFbJ2Rlc2snXSA9IHRhZ3Muc2x1Z1trZXldWydkZXNrJ10KICAgIGRhdGFbJ3pvbmUnXSA9IHRhZ3Muc2x1Z1trZXldWyd6b25lJ10KICAgIGRhdGFbJ2VkaXRpb24nXSA9IHRhZ3Muc2x1Z1trZXldWydlZGl0aW9uJ10KICAgIGRhdGFbJ3Byb2R1Y3QnXSA9IHRhZ3Muc2x1Z1trZXldWydwYWNrYWdlJ10KICAgIGRhdGFbJ2xheW91dF9kZXNrJ10gPSBkYXRhWydkZXNrJ10uc3BsaXQoJy8nKVswXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrawo=</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

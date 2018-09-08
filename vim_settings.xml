@@ -73,12 +73,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TownNews/app/ng3_services.py" timestamp="1536405949420">
+      <file name="$USER_HOME$/PycharmProjects/TownNews/app/ng3_services.py" timestamp="1536409738171">
         <mark key="'" line="19" column="3" />
-        <mark key="[" line="109" column="62" />
-        <mark key="]" line="109" column="62" />
-        <mark key="." line="109" column="62" />
-        <mark key="^" line="109" column="62" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536353152996">
         <mark key="[" line="10" column="35" />
@@ -337,45 +337,46 @@
       <jump line="16" column="3" filename="$USER_HOME$/PycharmProjects/TownNews/app/ng3_services.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlcyc6IGRhdGFbJ0ltYWdlcyddCg==</text>
+      <register name="&quot;" type="4">
+        <text>bytes_object</text>
       </register>
       <register name="-" type="4">
-        <text>image['ref']</text>
+        <text>bytes_object</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oYXBwLmluc3RhbmNlX3BhdGgsICdpbWcnKSkK</text>
+        <text encoding="base64">ICAgIHdpdGggemlwZmlsZS5aaXBGaWxlKGJ5dGVzX29iamVjdCwgInciLCB6aXBmaWxlLlpJUF9ERUZMQVRFRCkgYXMgejoKICAgICAgICAjIGFkZCB0aGUgeG1sIGludG8gdGhlIHppcGZpbGUgKHRoZSBuYW1lIGRvZXNuJ3QgbWF0dGVyKQogICAgICAgIHoud3JpdGUobmczX3BhY2thZ2VbJ3htbCddLCBhcmNuYW1lPSd0b3duTmV3cy54bWwnKQogICAgICAgICMgdGhlIG5hbWUgb2YgaW1hZ2VzIG1hdHRlciwgdGhlIG5hbWVzIG11c3QgbWF0Y2ggdGhlIHJlZmVyZW5jZSBpbiB0aGUgbmV3c2dhdGUgWE1MCiAgICAgICAgaWYgbmczX3BhY2thZ2UuZ2V0KCdpbWFnZXMnKToKICAgICAgICAgICAgZm9yIGltYWdlIGluIG5nM19wYWNrYWdlWydpbWFnZXMnXToKICAgICAgICAgICAgICAgIHoud3JpdGUob3MucGF0aC5qb2luKGN1cnJlbnRfYXBwLmluc3RhbmNlX3BhdGgsICdpbWcnLCBpbWFnZVsncmVmJ10pLCBpbWFnZVsncmVmJ10pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlcyc6IGRhdGFbJ0ltYWdlcyddCg==</text>
+      <register name="1" type="4">
+        <text>os.path.basename(os.path.join(current_app.instance_path, 'img',
+                                                             image['ref']))</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhWydiYXNlbmFtZSddID0gb3MucGF0aC5iYXNlbmFtZShmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlcyc6IGRhdGFbJ0ltYWdlcyddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhWydiYXNlbmFtZSddID0gb3MucGF0aC5iYXNlbmFtZShmaWxlbmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlc19vYmplY3QuYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHdyaXRlX3RvX2Rpc2s6Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlc19vYmplY3QuYAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIHdyaXRlX3RvX2Rpc2s6Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICNieXRlc19vYmplY3QgPSAnLi96aXBzL3Rvd25OZXdzLnppcCcK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>update_xml
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNhdmVfeG1sKHVwZGF0ZV94bWwsIGRhdGFbJ2lkJ10sICdzdG9yeVVwZGF0ZScpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhdmVfeG1sKHVwZGF0ZV94bWwsIGRhdGFbJ2lkJ10sICdzdG9yeVVwZGF0ZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

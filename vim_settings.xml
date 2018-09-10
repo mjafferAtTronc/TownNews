@@ -38,11 +38,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_story.xml" timestamp="1536597613316">
-        <mark key="[" line="8" column="98" />
-        <mark key="]" line="8" column="109" />
-        <mark key="^" line="8" column="109" />
-        <mark key="." line="8" column="109" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_story.xml" timestamp="1536599116582">
+        <mark key="[" line="57" column="100" />
+        <mark key="]" line="58" column="47" />
+        <mark key="^" line="58" column="47" />
+        <mark key="." line="58" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -247,11 +247,11 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_package.xml" timestamp="1536597662486">
-        <mark key="[" line="6" column="99" />
-        <mark key="]" line="6" column="119" />
-        <mark key="." line="6" column="119" />
-        <mark key="^" line="6" column="119" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_package.xml" timestamp="1536599383072">
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="35" />
+        <mark key="." line="58" column="35" />
+        <mark key="^" line="58" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ninja/app/data.py" timestamp="1535760457157">
         <mark key="[" line="18" column="28" />
@@ -291,11 +291,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/createupdate_story.xml" timestamp="1536597741086">
-        <mark key="[" line="8" column="90" />
-        <mark key="]" line="8" column="101" />
-        <mark key="^" line="8" column="101" />
-        <mark key="." line="8" column="101" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/createupdate_story.xml" timestamp="1536599316161">
+        <mark key="[" line="101" column="32" />
+        <mark key="]" line="101" column="37" />
+        <mark key="^" line="101" column="37" />
+        <mark key="." line="101" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/templates/story_template.xml" timestamp="1536350583721">
         <mark key="'" line="0" column="0" />
@@ -358,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.strftime(&quot;%m-%d-%Y&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.strftime(&quot;%m-%d-%Y&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>

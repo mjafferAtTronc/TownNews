@@ -122,11 +122,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/transform_data.py" timestamp="1536597596030">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="44" />
-        <mark key="^" line="45" column="36" />
-        <mark key="." line="34" column="44" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/transform_data.py" timestamp="1536684772542">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="45" column="59" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="45" column="59" />
       </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/utilities.py" timestamp="1535572897787">
         <mark key="[" line="25" column="60" />
@@ -176,13 +176,18 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="21" column="40" />
       </file>
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/ng3_services.py" timestamp="1536684739791">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="84" column="40" />
+        <mark key="^" line="76" column="39" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/transform_data.py" timestamp="1536464116754">
         <mark key="[" line="12" column="49" />
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/__init__.py" timestamp="1536596424895" />
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/tags.py" timestamp="1536002463974">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="45" column="25" />
@@ -241,17 +246,22 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/instance/articles" timestamp="1536684341990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/app/fetch.py" timestamp="1536405633638">
         <mark key="[" line="38" column="59" />
         <mark key="]" line="38" column="59" />
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_package.xml" timestamp="1536599383072">
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="35" />
-        <mark key="." line="58" column="35" />
-        <mark key="^" line="58" column="38" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_package.xml" timestamp="1536683794509">
+        <mark key="[" line="53" column="84" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ninja/app/data.py" timestamp="1535760457157">
         <mark key="[" line="18" column="28" />
@@ -358,45 +368,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>is_update</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>is_update</text>
       </register>
       <register name="/" type="4">
         <text>tags.slug[data['slug'][:5]]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggemlwZmlsZS5aaXBGaWxlKGJ5dGVzX29iamVjdCwgInciLCB6aXBmaWxlLlpJUF9ERUZMQVRFRCkgYXMgejoKICAgICAgICAjIGFkZCB0aGUgeG1sIGludG8gdGhlIHppcGZpbGUgKHRoZSBuYW1lIGRvZXNuJ3QgbWF0dGVyKQogICAgICAgIHoud3JpdGUobmczX3BhY2thZ2VbJ3htbCddLCBhcmNuYW1lPSd0b3duTmV3cy54bWwnKQogICAgICAgICMgdGhlIG5hbWUgb2YgaW1hZ2VzIG1hdHRlciwgdGhlIG5hbWVzIG11c3QgbWF0Y2ggdGhlIHJlZmVyZW5jZSBpbiB0aGUgbmV3c2dhdGUgWE1MCiAgICAgICAgaWYgbmczX3BhY2thZ2UuZ2V0KCdpbWFnZXMnKToKICAgICAgICAgICAgZm9yIGltYWdlIGluIG5nM19wYWNrYWdlWydpbWFnZXMnXToKICAgICAgICAgICAgICAgIHoud3JpdGUob3MucGF0aC5qb2luKGN1cnJlbnRfYXBwLmluc3RhbmNlX3BhdGgsICdpbWcnLCBpbWFnZVsncmVmJ10pLCBpbWFnZVsncmVmJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAnI2VkaXRlZCcgaW4gZGF0YVsndGFncyddWydrZXl3b3JkJ106CiAgICAgICAgICAgIGRhdGFbJ2lzX2ZpbmFsaXplZCddID0gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGRhdGFbJ2lzX2ZpbmFsaXplZCddID0gRmFsc2UK</text>
       </register>
       <register name="1" type="4">
+        <text>531b115e-999e-11e8-ba8c-3769c5dc4841
+d8472194-b3d2-11e8-95d0-6b4d71d225e0
+eeb1dc0a-b3df-11e8-8943-9b24b8365c40
+f9d76584-b4be-11e8-a4bc-77033260e5d8
+dc763d5c-b50f-11e8-b9e9-575664294f19
+bef8f83c-b5dc-11e8-bba2-3b7451e18a70
+09d77814-b5de-11e8-b9b3-0fde7479e4e0
+91b715fa-b5de-11e8-95b2-6ff2487ac800
+8161bee4-b5de-11e8-8c76-1f72b73b74af</text>
+      </register>
+      <register name="2" type="4">
         <text>os.path.basename(os.path.join(current_app.instance_path, 'img',
                                                              image['ref']))</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlcyc6IGRhdGFbJ0ltYWdlcyddCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhWydiYXNlbmFtZSddID0gb3MucGF0aC5iYXNlbmFtZShmaWxlbmFtZSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBieXRlc19vYmplY3QuYAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIHdyaXRlX3RvX2Rpc2s6Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICNieXRlc19vYmplY3QgPSAnLi96aXBzL3Rvd25OZXdzLnppcCcK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>update_xml
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhdmVfeG1sKHVwZGF0ZV94bWwsIGRhdGFbJ2lkJ10sICdzdG9yeVVwZGF0ZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

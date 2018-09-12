@@ -38,11 +38,17 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_story.xml" timestamp="1536599116582">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_story.xml" timestamp="1536728695927">
         <mark key="[" line="57" column="100" />
         <mark key="]" line="58" column="47" />
         <mark key="^" line="58" column="47" />
         <mark key="." line="58" column="47" />
+      </file>
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/webhook.py" timestamp="1536729057028">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TownNews/webhook/__init__.py" timestamp="1534467923972">
         <mark key="'" line="1" column="8" />
@@ -122,11 +128,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/transform_data.py" timestamp="1536684772542">
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="59" />
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/transform_data.py" timestamp="1536728805422">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="27" />
         <mark key="^" line="45" column="59" />
-        <mark key="." line="45" column="59" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/utilities.py" timestamp="1535572897787">
         <mark key="[" line="25" column="60" />
@@ -257,7 +263,7 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
-      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_package.xml" timestamp="1536683794509">
+      <file name="&lt;397c104e-a3de-4aba-8ec4-0cd0d5efcd2a&gt;/TownNews/app/templates/create_package.xml" timestamp="1536728633811">
         <mark key="[" line="53" column="84" />
         <mark key="]" line="54" column="31" />
         <mark key="." line="54" column="31" />
@@ -444,13 +450,13 @@ bef8f83c-b5dc-11e8-bba2-3b7451e18a70
         <entry encoding="base64">JzwsJz5zL05HU3RvcnkvU3Rvcnkv</entry>
         <entry>%s/print/app.logger.info/gc</entry>
         <entry>%s/app.logger.info/print/gc</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc2svem9uZS8=</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc2svZWRpdGlvbi9n</entry>
         <entry encoding="base64">JzwsJz4vZWRpdGlvbi9wYWNrYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RhZ3Muc2x1Z1tkYXRhWydzbHVnJ11bOjVdXS9kYXRhW2tleV0vZw==</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
